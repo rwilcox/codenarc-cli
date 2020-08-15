@@ -35,7 +35,11 @@ Use a ruleset defined in your project:
 	
 	java -jar codenarc-wrapper.jar -rulesetfiles=file:config%2Fruleset.groovy
 	
+	
+Downloading it
+==================================
 
+I've used the [Github Releases](https://github.com/rwilcox/codenarc-cli/releases) page to not only keep a copy of the source, but also the generated .jar file. Download it from there and try it out!!
 
 License
 ===================================
