@@ -71,6 +71,7 @@
 		<archive>
 		  <manifest><mainClass>org.codenarc.CodeNarc</mainClass></manifest>
 		</archive>
+		<finalName>codenarc-wrapper</finalName>
 	      </configuration>
 	    </plugin>
 	      <plugin>
